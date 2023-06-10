@@ -1,5 +1,5 @@
 ### 
-<img align="right" alt="coding" width="1000"  height="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlN2E2NmU2OTE0ZTY3OTUyNDZhZmJhOWYwMThhYWIyZTE0MTJmZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/quEsMOrr3hmQ8/giphy.gif">
+<img align="right" alt="coding" width="1000"  height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif">
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
