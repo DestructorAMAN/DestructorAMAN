@@ -1,5 +1,7 @@
-![logo](https://www.primeum.com/hubfs/D%C3%A9finition-performance-commerciale.jpg)
-### ✍️ Random Dev Quote
+### 
+<img align="right" alt="coding" width="1000"  height="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlN2E2NmU2OTE0ZTY3OTUyNDZhZmJhOWYwMThhYWIyZTE0MTJmZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/quEsMOrr3hmQ8/giphy.gif">
+
+#### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 💫 About Me:
 🔭 I’m currently studying Computer Science with AI and ML<br>👯 I’m looking to collaborate on ML projects.<br>💹I'm an Aspiring Entrepreneur<br>🌱 I’m currently learning AI with Python.<br>💬 Ask me about Machine Learning, Python,C,CPP<br>⚡ Fun fact : - I am a musician🎶
