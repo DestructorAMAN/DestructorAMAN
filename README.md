@@ -1,7 +1,6 @@
 ### 
 <img align="right" alt="coding" width="1200"  height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif">
 
-#### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 💫 About Me:
 🔭 I’m currently studying Computer Science with AI and ML<br>👯 I’m looking to collaborate on ML projects.<br>💹I'm an Aspiring Entrepreneur<br>🌱 I’m currently learning AI with Python.<br>💬 Ask me about Machine Learning, Python,C,CPP<br>⚡ Fun fact : - I am a musician🎶
