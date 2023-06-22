@@ -1,7 +1,7 @@
-###
-<img align="right" alt="coding" width="1200"  height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### <img align="right" alt="coding" width="1200"  height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif">
+
+# ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 💫 About Me:
 🔭 I’m currently studying Computer Science with AI and ML<br>👯 I’m looking to collaborate on ML projects.<br>💹I'm an Aspiring Entrepreneur<br>🌱 I’m currently learning AI with Python.<br>💬 Ask me about Machine Learning, Python,C,CPP<br>⚡ Fun fact : - I am a musician🎶
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
